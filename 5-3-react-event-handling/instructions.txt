@@ -31,7 +31,7 @@ Enter these semester project tasks in the input:
 - Deploy project  
 
 ------------------------------------------------------------
-Task 1 – Capture Input
+Task 1 – Capture Input Done
 ------------------------------------------------------------
 1. In TaskApp.jsx, add an onChange handler to the input field.
 2. In TaskApp.jsx, use the React useState hook to create a state variable named text.
