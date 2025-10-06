@@ -3,7 +3,7 @@ import TaskItem from "./TaskItem";
 
 export default function TaskList({ tasks, onDelete }) {
   if (tasks.length === 0) {
-    return <p className="placeholder">No tasks yet 😴</p>;
+    return <p className="placeholder">No tasks</p>;
   }
   return (
     <ul className="list">
