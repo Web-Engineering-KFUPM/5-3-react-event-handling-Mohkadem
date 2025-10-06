@@ -7,7 +7,7 @@ The goal is to understand how to:
 
 
 ------------------------------------------------------------
-Setup
+Setup Done
 ------------------------------------------------------------
 1. Open VS Code and go to the terminal.  
 2. Move into the project folder by running:  
